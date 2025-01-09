@@ -7,7 +7,7 @@
 
 获取网易云音乐用户 ID (<https://music.163.com>)
 
-- 您的个人主页页面（`https://music.163.com/#/user/home?id=xxx`），`id` 为紧跟的那串数字
+- 您的个人主页页面（`https://music.163.com/#/user/home?id=4877518288`），`id` 为紧跟的那串数字
 
 ![user_id](https://user-images.githubusercontent.com/44596995/200237164-bf3b1c62-b2ee-4569-b5bf-bda06b09db08.png)
 
